@@ -8,6 +8,5 @@ new_array=[]
   end
   
   puts new_array
-
 end
   square_array
